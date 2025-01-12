@@ -16,7 +16,7 @@
     --space-8: 2rem;
     --space-10: 2.5rem;
 
-    --container-max: 1440px;
+    --container-max: 80%;
 }
 
 * {
